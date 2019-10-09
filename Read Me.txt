@@ -1,0 +1,5 @@
+---> Example 1 : DESIGN PATTERN ADAPTER
+---> Example 2 : DESIGN PATTERN Composite
+---> Example 3 : DESIGN PATTERN Observer
+---> Example 4 : DESIGN PATTERN Strategie
+---> Example 5 : DESIGN PATTERN Decorateur
